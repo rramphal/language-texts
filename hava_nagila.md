@@ -21,7 +21,7 @@
 
 Word | Translation | Root | Binyan | Infinitive | Meaning | Form
 --- | --- | --- | --- | --- | --- | ---
-הָ֫בָה | **Come!, Let's go!** | <span>√</span>יהב | פָּעַל | לָהֶבֶת | to give | in long (Eickmann) / lengthened (Gesenius) / emphatic (Weingreen) imperative (צִוּוּי מָאֳרָךְ / קָטְלָה) (cf. Gen 11:4)
+הָ֫בָה | **Come!, Let's go!** | <span>√</span>יהב | פָּעַל | לָהֶבֶת | to give | in long (Eickmann) / lengthened (Gesenius) / emphatic (Weingreen) imperative (צִוּוּי מָאֳרָךְ / קָטְלָה) (e.g. Gen 11:4)
 נָגִילָה | **Let us rejoice** | <span>√</span>גיל | פָּעַל | לָגִיל | to rejoice, to be happy | in cohortative
 וְ | **and** | | | | |
 נִשְׂמְחָה | **let us be happy.** | <span>√</span>שׂמח | פִּעֵל | לְשַׂמֵּחַ | to cheer up | in cohortative
