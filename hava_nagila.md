@@ -42,5 +42,5 @@ Word | Translation | Root | Binyan | Infinitive | Meaning | Form
 * https://www.pealim.com/dict/2777-laur/
 * Paul E. Eickmann, *The Long Imperative in Biblical Hebrew* [(pdf)](http://essays.wls.wels.net/bitstream/handle/123456789/1330/EickmannImperative.pdf)
 * Michael Carasik, *The Great Courses: Biblical Hebrew: Learning a Sacred Language*, Lesson 25: Jussives, Cohortatives, and "Hava Nagila" [(pdf)](https://archive.org/details/BiblicalHebrewLearningASacredLanguage/page/n105)
-* J. Weingreen, *A Practical Grammar for Biblical Hebrew, Second Edition*, &sect; 48: Cohortative and Jussive (pg. 88)
-* E. Kautzsch and A.E. Cowley, *Gesenius' Hebrew Grammar, Second English Edition*, &sect; 48 (pg. 129), &sect; 69o (pg. 190), &sect; 105b: Interjections (pg. 307), &sect; 108: Use of the Cohortative
+* J. Weingreen, *A Practical Grammar for Biblical Hebrew, Second Edition*, &sect; 48: Cohortative and Jussive (pg. 88) [(scan)](https://www.scribd.com/document/369598533/244480522-Weingreen-J-Practical-Grammar-for-Classical-Hebrew-9850-pdf)
+* E. Kautzsch and A.E. Cowley, *Gesenius' Hebrew Grammar, Second English Edition*, &sect; 48 (pg. 129), &sect; 69o (pg. 190), &sect; 105b: Interjections (pg. 307), &sect; 108: Use of the Cohortative [(pdf)](https://archive.org/details/geseniushebrewgr00geseuoft)
